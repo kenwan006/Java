@@ -27,6 +27,8 @@
         </dependencies>
     </dependencyManagement>
 
+    <!-- test comment -->
+
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
